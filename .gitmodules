@@ -1,0 +1,6 @@
+[submodule "Django"]
+	path = Django
+	url = https://github.com/ForeverHardRock/TestTaskDjango
+[submodule "Bot"]
+	path = Bot
+	url = https://github.com/ForeverHardRock/TestTaskBot
